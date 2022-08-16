@@ -62,6 +62,7 @@ ul {
     width: 150px;
 }
 
+/* quote section*/
 
 .quote {
     width: 900px;
@@ -75,6 +76,8 @@ ul {
 .quote p {
     align-self: end;
 }
+
+/* buy sectionn */
 
 .buy {
     width: 900px;
